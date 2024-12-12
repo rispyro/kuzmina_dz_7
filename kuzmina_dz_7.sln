@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tumakov_lab_7", "tumakov_lab_7\tumakov_lab_7.csproj", "{00B6B293-A4F6-4FD5-961C-2A8AB57B4720}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{D23D12CA-54E2-4658-9B9A-918C8926DB7D}"
+	ProjectSection(SolutionItems) = preProject
+		input.txt = input.txt
+		inputemail.txt = inputemail.txt
+		output.txt = output.txt
+		outputemail.txt = outputemail.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "file_dz_7", "file_dz_7\file_dz_7.csproj", "{595E6F02-24CE-4781-9574-73380275B8A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B6B293-A4F6-4FD5-961C-2A8AB57B4720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B6B293-A4F6-4FD5-961C-2A8AB57B4720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B6B293-A4F6-4FD5-961C-2A8AB57B4720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B6B293-A4F6-4FD5-961C-2A8AB57B4720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595E6F02-24CE-4781-9574-73380275B8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595E6F02-24CE-4781-9574-73380275B8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595E6F02-24CE-4781-9574-73380275B8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595E6F02-24CE-4781-9574-73380275B8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B021F4F1-E220-4F0E-8A9D-0708F261221B}
+	EndGlobalSection
+EndGlobal
